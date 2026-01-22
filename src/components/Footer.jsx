@@ -10,7 +10,7 @@ export default function Footer() {
           <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a>
           <a href="mailto:your.email@example.com">Email</a>
         </div>
-        <p>&copy; {currentYear} Your Name. All rights reserved.</p>
+        <p>&copy; 2026 My Portfolio. All rights reserved.</p>
         <p>Crafted with ❤️ using React</p>
       </div>
     </footer>
