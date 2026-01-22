@@ -6,13 +6,16 @@ export default function About() {
         <div className="about-content">
           <div className="about-text">
             <p>
-              Welcome to my portfolio! I'm An M. Edrada, a Software Developer dedicated to building reliable applications and continuously improving my problem-solving skills. My journey started with Java and database management, and I'm now expanding into modern web development with JavaScript, React, and Next.js.
+              <strong>Welcome!</strong> I'm An M. Edrada, a Software Developer with a passion for building reliable, scalable applications that solve real-world problems. My journey in technology began with Java and database management, where I learned the importance of clean architecture and maintainable code.
             </p>
             <p>
-              I believe in writing clean, maintainable code and creating applications that solve real problems. I'm passionate about learning new technologies and applying them to build scalable, user-friendly solutions.
+              Today, I'm expanding my expertise into modern web development, mastering JavaScript, React, and Next.js. I believe the best software combines technical excellence with thoughtful design—creating tools that are both powerful and intuitive for users.
             </p>
             <p>
-              Currently, I'm focused on mastering full-stack web development while maintaining strong fundamentals in software engineering. I'm committed to continuous growth and love exploring how technology can make a positive impact.
+              <strong>My Philosophy:</strong> Every project is an opportunity to grow. I'm committed to continuous learning, staying updated with industry best practices, and contributing to the tech community. Whether building backends or frontend interfaces, I bring dedication to understanding user needs and delivering value.
+            </p>
+            <p>
+              <strong>What I Do:</strong> I develop full-stack applications, optimize databases, craft responsive UIs, and implement CI/CD workflows. I'm particularly interested in web development that makes a positive impact.
             </p>
           </div>
           <div className="about-image">
